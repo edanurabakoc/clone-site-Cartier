@@ -345,9 +345,6 @@ body footer .newsletter {
   gap: 18px;
   align-items: center;
 }
-body footer .newsletter p {
-  padding-left: 50px;
-}
 body footer .newsletter .subscribe {
   display: flex;
   flex-direction: row;
